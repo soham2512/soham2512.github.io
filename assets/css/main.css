@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Shadows+Into+Light|Source+Sans+Pro:400,700");
+@import url("https://fonts.googleapis.com/css2?family=Alegreya+Sans&display=swap");
 html {
   overflow-x: hidden;
 }
@@ -27,6 +28,10 @@ h1, h2, h3, h4 {
 
 .script-font {
   font-family: 'Shadows Into Light', cursive;
+}
+
+.top-font {
+  font-family: 'Alegreya Sans', sans-serif;
 }
 
 a {
@@ -758,7 +763,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 #hero-area .contents {
-  padding: 175px 0px 120px;
+  padding: 170px 0px 180px;
 }
 
 #hero-area .contents h5 {
